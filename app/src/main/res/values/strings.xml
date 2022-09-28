@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StreamChat</string>
+
+    <string name="api_key">qqher42yns6s</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoic2hhc2hhbmszIn0.XbG5hNLzgrmJnQ1iATmhGnY3OwndTit1PnI744d9fzg</string>
+    <string name="title_activity_channel_list">ChannelListActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
 </resources>
